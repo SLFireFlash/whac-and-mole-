@@ -1,0 +1,21 @@
+.st-score
+{
+    display:inline-flex;
+}
+.st-time-left
+{
+    display: inline-flex;
+
+}
+
+
+.box
+{
+    width:200px;
+    height:200px;
+    border: solid black 1px;
+}
+.box:hover
+{
+    background-color: darkcyan;
+}
