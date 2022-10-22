@@ -6,7 +6,7 @@ const timeLeft = document.getElementById("TimeLeft-no");
 
 let result =0;
 let hitPos;
-let timeNow =5;
+let timeNow =60;
 let timer =null;
 
 function randomBox(){
