@@ -20,9 +20,7 @@
     display: inline-flex;
     border: 1px solid black;
 }
-.box:hover{
-    background-color: blue;
-}
+
 .mole{
     background-color: burlywood;
 }
