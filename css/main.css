@@ -1,6 +1,25 @@
 
 
+.score{
+    display: inline-flex;
+}
+.time-left{
+    display: inline-flex;
+}
+.game-body{
+    padding-top: 5%;
+}
+.row{
+    max-width: 650px;
+    
+}
 
-.align-nav-items{
-    align-items: flex-end;
+.box{
+    width: 200px;
+    height: 200px;
+    display: inline-flex;
+    border: 1px solid black;
+}
+.box:hover{
+    background-color: blue;
 }
